@@ -1,0 +1,14 @@
+{
+  "readableLineLength": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "exam 2 concepts",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 50
+  }
+}

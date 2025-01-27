@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "9bfa159617207e27",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac004cc10c985cc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fac2c640cb3affe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exam 1 formula sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "exam 1 formula sheet"
+            }
+          },
+          {
+            "id": "7f2d758eb8dd7993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "simple linear regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "simple linear regression"
+            }
+          },
+          {
+            "id": "60779bdedcd6348c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "homework/homework 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "homework 1"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5440a221c83d627e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbcd7bfabdd33eab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dca1ded11a8e1cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0e8f95730c7c4dfa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "75ac82e0af1e31ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.50247192382812
+  },
+  "right": {
+    "id": "494b2017ecb3bbb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bebd934807b0b32d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "537b7d9d72d313b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "exam 2 content/confidence interval.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for confidence interval"
+            }
+          },
+          {
+            "id": "70e5ecb7af0bd9ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "exam 2 content/confidence interval.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from confidence interval"
+            }
+          },
+          {
+            "id": "02a765d5d5677b61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8ae06f3f7d9a21ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "exam 2 content/confidence interval.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of confidence interval"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "tldraw:Create new tldrawing": false
+    }
+  },
+  "active": "60779bdedcd6348c",
+  "lastOpenFiles": [
+    "exam 1 formula sheet.md",
+    "homework/homework 1.md",
+    "simple linear regression.md",
+    "homework",
+    "final exam content/finding power.md",
+    "final exam content/final exam content.md",
+    "final exam content/test for the slope in simple linear regression.md",
+    "exam 2 content/confidence interval.md",
+    "final exam content",
+    "exam 2 content/joint probability.md",
+    "exam 1 content/probability with double integrals.md",
+    "exam 1 content/z-scores and normal distribution.md",
+    "exam 1 content/central limit theorem.md",
+    "exam 1 content/confidence interval.md",
+    "exam 1 content/moment generating functions.md",
+    "exam 2 content",
+    "exam 1 content",
+    "exam 1 content/exam 1 cheat sheet.md",
+    "exam 1 content/probability.md",
+    "Ink/Writing/2024.9.24 - 10.22am.writing",
+    "Ink/Writing/2024.9.24 - 10.18am.writing",
+    "Ink/Writing/2024.9.24 - 10.07am.writing",
+    "Ink/Writing/2024.9.24 - 10.04am (2).writing",
+    "Ink/Writing/2024.9.24 - 10.04am.writing",
+    "Ink/Writing/2024.9.24 - 10.00am.writing",
+    "Excalidraw/Untitled 2024-09-10 11.17.15.excalidraw.md",
+    "Tldraw 2024-09-10 11.22am.md",
+    "Tldraw 2024-09-10 11.21am.md",
+    "tldraw/Tldraw 2024-09-10 11.22AM.md",
+    "tldraw/Tldraw 2024-09-10 11.21AM.md",
+    "exam 1 content/bayes probability.md",
+    "tldraw/Tldraw 2024-09-10 11.06AM (0).md",
+    "tldraw/Tldraw 2024-09-10 11.06AM.md",
+    "exam 1 content/mean, median, and mode.md",
+    "exam 1 content/mean, median, and mode-20240821121123484.webp",
+    "exam 1 content/mean, median, and mode-20240821121149432.webp",
+    "chapter 5/5.1/orthogonality.md",
+    "chapter 5/5.1/dot product.md",
+    "chapter 4/4.2/linear transformation for graphs-20240326133901325.webp",
+    "chapter 4/4.2/Pasted image 20240326015312.png",
+    "exam 2/exam 2 concepts/pants that i've tried on-20231010003315554.webp",
+    "exam 2/exam 2 concepts/pants that i've tried on-20231010003117250.webp",
+    "exam 2/exam 2 concepts/pants that i've tried on-20231010003221497.webp",
+    "exam 2/exam 2 concepts/pants1.png-20231010000553299.webp",
+    "exam 2/exam 2 concepts/pictures of pants-20231010000656404.webp",
+    "exam 2/exam 2 concepts/pictures of pants-20231010000717923.webp"
+  ]
+}

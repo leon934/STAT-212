@@ -1,0 +1,12 @@
+Month    Online    Catalog
+January  21        58
+February 25        55
+March    33        62
+April    39        48
+May      49        45
+June     48        44
+July     40        41
+August   45        35
+September 15       43
+
+

@@ -1,0 +1,7 @@
+       Reason, PercentBost, PercentBuff
+    Traffic,         34.2,        29.1
+ Child Care,         28.0,        27.6
+ Pub Transp,         17.5,        10.3
+    Weather,         12.2,        23.6
+  Overslept,          8.9,         9.2
+      Other,          3.4,         4.4

@@ -1,0 +1,8 @@
+  AccidType Deaths
+1  MotorVeh  10547
+2    Poison    942
+3  Drowning    679
+4     Fires    350
+5     Falls    258
+6  Firearms    205
+7     Other   1074

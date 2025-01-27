@@ -1,0 +1,13 @@
+Company           Percent
+Chrysler          10.7
+Ford              16.6
+GM                18.2
+Honda              8.5
+Hyunday            5.0
+Kia                3.7
+Nissan             8.6
+Toyota            13.9
+BMW                2.6
+Daimler            2.9
+VW                 2.9
+Other              6.4

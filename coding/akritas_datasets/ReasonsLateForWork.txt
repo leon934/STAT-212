@@ -1,0 +1,7 @@
+       Reason, Percent
+    Traffic,     34.2
+ Child Care,     28.0
+ Pub Transp,     17.5
+    Weather,     12.2
+  Overslept,      8.9
+      Other,      3.4

@@ -1,0 +1,8 @@
+/* the title of the note at the top of the panel */
+body {
+	--file-line-width: 65rem;
+}
+
+mjx-container[display="true"] {
+	text-align: left !important;
+  }

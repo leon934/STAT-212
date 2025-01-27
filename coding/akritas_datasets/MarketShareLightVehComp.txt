@@ -1,0 +1,13 @@
+Company           Percent_2011  Percent_2010
+Chrysler          10.7           8.4
+Ford              16.6          16.6
+GM                18.2          19.4 
+Honda              8.5          10.3
+Hyunday            5.0           4.7
+Kia                3.7           3.1
+Nissan             8.6           8.2
+Toyota            13.9          14.9
+BMW                2.6           2.6
+Daimler            2.9           2.2
+VW                 2.9           2.3
+Other              6.4           7.3

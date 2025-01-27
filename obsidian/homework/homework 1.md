@@ -1,0 +1,12 @@
+#### question 1.
+1. The $(t, \log (y))$ scatterplot suggests a linear relationship.
+2. The predictive equation is: 
+$$Y=259.58-19.46t$$
+#### question 2.
+1. The $(x,y)$ scatterplot suggests a linear relationship.
+2. The $(x, 1/y)$ scatterplot suggests the best linear relationship, since the $R^{2}$ value is the highest. The estimated regression line is;
+$$
+y=6.9650-0.8102(1/x)
+$$
+3. At a wind speed of 8 mph, the current output would be $6.863725$.
+4. 
