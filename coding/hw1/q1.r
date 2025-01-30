@@ -5,5 +5,6 @@ t <- data[,1]
 y <- data[,2]
 
 plot(y~t)
+plot((log(y))~t)
 
-print(lm(y~t))
+print(lm(log(y)~t))
