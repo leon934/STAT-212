@@ -92,9 +92,9 @@
 	{trigger: "rarr", replacement: "\\rightarrow  $0", options:"mA"},
 	{trigger: "larr", replacement: "\\leftarrow  $0", options:"mA"},
 
-	// {trigger: /R(.)/, replacement: (match) => {
-	// 	return `\\mathbb{R}^{${match[1]}}`
-	// }, options: "mA"},
+	{trigger: /R(.)/, replacement: (match) => {
+		return `\\mathbb{R}^{${match[1]}}`
+	}, options: "mA"},
 
 	{trigger: "ker", replacement: "\\text{ker}($0)", options: "mA"},
 
@@ -325,6 +325,17 @@
 	{trigger: "\\\\bra{([^|]+)\\|", replacement: "\\braket{ [[0]] | $0 ", options: "rmA", description: "Convert bra into braket"},
 	{trigger: "\\\\bra{(.+)}([^ ]+)>", replacement: "\\braket{ [[0]] | $0 ", options: "rmA", description: "Convert bra into braket (alternate)"},
 	{trigger: "outp", replacement: "\\ket{${0:\\psi}} \\bra{${0:\\psi}} $1", options: "mA"},
+
+
+	// Chemistry
+	{trigger: "pu", replacement: "\\pu{ $0 }", options: "mA"},
+	{trigger: "msun", replacement: "M_{\\odot}", options: "mA"},
+	{trigger: "solm", replacement: "M_{\\odot}", options: "mA"},
+	{trigger: "ce", replacement: "\\ce{ $0 }", options: "mA"},
+	{trigger: "iso", replacement: "{}^{${0:4}}_{${1:2}}${2:He}", options: "mA"},
+	{trigger: "hel4", replacement: "{}^{4}_{2}He ", options: "mA"},
+	{trigger: "hel3", replacement: "{}^{3}_{2}He ", options: "mA"},
+
 
 	// Environments
 	{trigger: "pmat", replacement: "\\begin{pmatrix}\n$0\n\\end{pmatrix}", options: "mA"},
