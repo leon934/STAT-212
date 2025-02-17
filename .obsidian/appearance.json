@@ -2,7 +2,8 @@
   "accentColor": "",
   "baseFontSize": 18,
   "enabledCssSnippets": [
-    "TitleAboveNoteCSS"
+    "TitleAboveNoteCSS",
+    "style"
   ],
   "cssTheme": "",
   "theme": "obsidian"
