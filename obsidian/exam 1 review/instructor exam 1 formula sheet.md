@@ -2,7 +2,13 @@
 
 #### SSR
 Regression sum of squares.
+$$
+SSR=\sum_{i=1}^n(\hat{y}_{i}-\bar{y})^{2}
+$$
 #### SSE
+$$
+SSE=\sum_{i=1}^n(y_{i}-\hat{y}_{i})^{2}
+$$
 #### SST
 $$
 SST = SSE+SSR
@@ -61,5 +67,3 @@ $$
 \end{align}
 $$
 - $\alpha$ is a cosntant
-
-

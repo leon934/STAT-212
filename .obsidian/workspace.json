@@ -6,31 +6,66 @@
       {
         "id": "23f0f9a5dee6fab4",
         "type": "tabs",
+        "dimension": 56.788079470198674,
         "children": [
           {
-            "id": "1aceb3a149209c27",
+            "id": "88ef6864816cfe0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/homework/homework 2/homework 2.md",
-                "mode": "preview",
+                "file": "obsidian/exam 1 review/instructor exam 1 formula sheet.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homework 2"
+              "title": "instructor exam 1 formula sheet"
             }
           },
           {
-            "id": "e8f9885fbe5fef63",
+            "id": "bc10646c8e2b211b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/homework/3/homework 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "homework 3"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c8fac6bebde1a618",
+        "type": "tabs",
+        "dimension": 43.211920529801326,
+        "children": [
+          {
+            "id": "d8f5d89e67045bb7",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "obsidian/homework/homework 2/HW2-STAT212-1.pdf"
+                "file": "obsidian/homework/3/HW3-STAT212-1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "HW2-STAT212-1"
+              "title": "HW3-STAT212-1"
+            }
+          },
+          {
+            "id": "2154d45bb2afbcc3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "obsidian/content/chapter 1/Chapter 1-C.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter 1-C"
             }
           }
         ]
@@ -106,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/homework/homework 2/homework 2.md",
+                "file": "obsidian/content/chapter 1/c/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for homework 2"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -125,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/homework/homework 2/homework 2.md",
+                "file": "obsidian/content/chapter 1/c/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from homework 2"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -154,17 +189,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/homework/homework 2/homework 2.md",
+                "file": "obsidian/content/chapter 1/c/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of homework 2"
+              "title": "Outline of Untitled"
             }
           },
           {
-            "id": "ca9268419659755d",
+            "id": "5f7d92dbcfe3e700",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -174,11 +209,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 392.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,37 +228,41 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "1aceb3a149209c27",
+  "active": "bc10646c8e2b211b",
   "lastOpenFiles": [
-    "obsidian/homework/homework 2/HW2-STAT212-1.pdf",
+    "obsidian/homework/3/HW3-STAT212-1.pdf",
+    "obsidian/content/chapter 1/Chapter 1-C.pdf",
+    "obsidian/homework/3/homework 3.md",
+    "obsidian/content/chapter 1/c/Untitled.md",
+    "obsidian/homework/3",
+    "obsidian/exam 1 review/exam 1 review sheet 2.md",
+    "obsidian/exam 1 review/exam 1 review sheet.md",
+    "obsidian/content/chapter 1/Chapter 1-B.pdf",
+    "obsidian/exam 1 review/instructor exam 1 formula sheet.md",
+    "obsidian/content/chapter 1/c",
+    "obsidian/content/chapter 1/Chapter 1-A.pdf",
+    "obsidian/exam 1 review/practice exams/midterm_1_soln.pdf",
+    "obsidian/exam 1 review/practice exams/midterm_2_soln.pdf",
+    "obsidian/exam 1 review/practice exams/midterm_2.pdf",
+    "obsidian/homework/1.md",
+    "obsidian/exam 1 review/practice exams/midterm_1.pdf",
+    "obsidian/homework/2/homework 2.md",
     "coding/hw2/aic_bic_adjr_plots.png",
-    "obsidian/homework/homework 2/homework 2.md",
-    "obsidian/exam 1 review/practice-midterm1.pdf",
-    "obsidian/exam 1 review/exam 1 formula sheet.md",
-    "obsidian/exam 1 review",
-    "obsidian/homework/homework 1.md",
-    "obsidian/homework/homework 2/q2iii.png",
-    "obsidian/chapter 1/b/adjusted R2.md",
-    "obsidian/chapter 1/b/candidate models.md",
-    "obsidian/chapter 1/b/methods of determining best fit.md",
-    "obsidian/homework/homework 2",
-    "coding/hw2/q2.r",
-    "coding/hw2/TreeAgeDiamSugarMaple.txt",
-    "coding/hw2",
+    "obsidian/homework/2/q2iii.png",
+    "obsidian/content/chapter 1/b/adjusted R2.md",
+    "obsidian/content/chapter 1/b/candidate models.md",
+    "obsidian/content/chapter 1/b/methods of determining best fit.md",
     "obsidian/simple linear regression.md",
     "coding/hw1/images/q2_y_vs_1x.png",
     "coding/hw1/images/q2_y_vs_x.png",
     "coding/hw1/images/quantile_plot.png",
-    "snippets.js",
     "exam 1 formula sheet.md",
     "homework/homework 1.md",
     "simple linear regression.md",
-    "homework",
     "final exam content/finding power.md",
     "final exam content/final exam content.md",
     "final exam content/test for the slope in simple linear regression.md",
     "exam 2 content/confidence interval.md",
-    "final exam content",
     "exam 2 content/joint probability.md",
     "exam 1 content/probability with double integrals.md",
     "exam 1 content/z-scores and normal distribution.md",
@@ -230,10 +270,6 @@
     "exam 1 content/confidence interval.md",
     "exam 1 content/moment generating functions.md",
     "exam 1 content/exam 1 cheat sheet.md",
-    "exam 1 content/probability.md",
-    "Excalidraw/Untitled 2024-09-10 11.17.15.excalidraw.md",
-    "Tldraw 2024-09-10 11.22am.md",
-    "Tldraw 2024-09-10 11.21am.md",
     "exam 1 content/mean, median, and mode-20240821121123484.webp",
     "exam 1 content/mean, median, and mode-20240821121149432.webp",
     "chapter 4/4.2/linear transformation for graphs-20240326133901325.webp",

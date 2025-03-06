@@ -6,10 +6,10 @@
   "alwaysUpdateLinks": true,
   "spellcheck": true,
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "A4",
     "landscape": false,
-    "margin": "0",
+    "margin": "2",
     "downscalePercent": 50
   }
 }
