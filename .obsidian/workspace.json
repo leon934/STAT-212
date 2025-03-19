@@ -6,36 +6,8 @@
       {
         "id": "23f0f9a5dee6fab4",
         "type": "tabs",
-        "dimension": 56.788079470198674,
+        "dimension": 61.97137280416396,
         "children": [
-          {
-            "id": "88ef6864816cfe0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/exam 1 review/instructor exam 1 formula sheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "instructor exam 1 formula sheet"
-            }
-          },
-          {
-            "id": "bc10646c8e2b211b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/homework/3/homework 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "homework 3"
-            }
-          },
           {
             "id": "90ab974d9899e9b7",
             "type": "leaf",
@@ -49,6 +21,20 @@
               "icon": "lucide-file",
               "title": "homework 2"
             }
+          },
+          {
+            "id": "d8f5d89e67045bb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/homework/4/homework 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "homework 4"
+            }
           }
         ],
         "currentTab": 1
@@ -56,20 +42,8 @@
       {
         "id": "c8fac6bebde1a618",
         "type": "tabs",
-        "dimension": 43.211920529801326,
+        "dimension": 38.028627195836044,
         "children": [
-          {
-            "id": "d8f5d89e67045bb7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "obsidian/homework/3/HW3-STAT212-1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "HW3-STAT212-1"
-            }
-          },
           {
             "id": "2154d45bb2afbcc3",
             "type": "leaf",
@@ -81,8 +55,21 @@
               "icon": "lucide-file-text",
               "title": "Chapter 1-C"
             }
+          },
+          {
+            "id": "afce6b10fb162be6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "obsidian/homework/4/HW4-STAT212-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "HW4-STAT212-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,35 +229,36 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bc10646c8e2b211b",
+  "active": "d8f5d89e67045bb7",
   "lastOpenFiles": [
-    "obsidian/homework/3/HW3-STAT212-1.pdf",
-    "coding/hw3/images/qq_2.png",
+    "obsidian/homework/2/homework 2.md",
+    "obsidian/homework/4/homework 4.md",
+    "obsidian/homework/4/HW4-STAT212-2025.pdf",
+    "obsidian/homework/4/images/1.3.png",
+    "obsidian/homework/4/images",
+    "obsidian/homework/4/New folder",
+    "coding/hw4/PorousCarbon.txt",
+    "coding/hw4/q1.r",
+    "coding/hw4",
     "obsidian/content/chapter 1/Chapter 1-C.pdf",
+    "obsidian/exam 1 review/instructor exam 1 formula sheet.md",
     "obsidian/homework/3/homework 3.md",
+    "obsidian/homework/3/HW3-STAT212-1.pdf",
+    "obsidian/homework/4",
+    "coding/hw3/images/qq_2.png",
     "coding/hw3/SleepRem.txt",
-    "coding/hw3/q2.r",
     "coding/hw3/images/cooks.png",
     "coding/hw3/images/qq_k.png",
     "coding/hw3/images/standard_vs_predicted.png",
     "coding/hw3/images/residual_new_fit.png",
-    "coding/hw3/0B195500",
-    "coding/hw3/5BF85500",
-    "coding/hw3/Baseball-Salary-Data copy.csv",
-    "baseball_data.txt",
-    "obsidian/exam 1 review/instructor exam 1 formula sheet.md",
-    "obsidian/homework/2/homework 2.md",
-    "coding/hw3/AIC-leaps.R",
     "obsidian/homework/1.md",
     "coding/hw3/images/kernel_density.png",
     "coding/hw3/images/qq_plot.png",
     "coding/hw3/images/resid_vs_predicted.png",
-    "coding/hw3/images",
     "obsidian/content/chapter 1/c/Untitled.md",
     "obsidian/exam 1 review/exam 1 review sheet 2.md",
     "obsidian/exam 1 review/exam 1 review sheet.md",
     "coding/hw2/aic_bic_adjr_plots.png",
-    "obsidian/homework/2/q2iii.png",
     "obsidian/content/chapter 1/b/adjusted R2.md",
     "obsidian/content/chapter 1/b/candidate models.md",
     "obsidian/content/chapter 1/b/methods of determining best fit.md",
@@ -287,7 +275,6 @@
     "exam 1 content/z-scores and normal distribution.md",
     "exam 1 content/central limit theorem.md",
     "exam 1 content/confidence interval.md",
-    "exam 1 content/moment generating functions.md",
-    "exam 1 content/exam 1 cheat sheet.md"
+    "exam 1 content/moment generating functions.md"
   ]
 }
