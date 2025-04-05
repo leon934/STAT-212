@@ -6,34 +6,34 @@
       {
         "id": "23f0f9a5dee6fab4",
         "type": "tabs",
-        "dimension": 61.97137280416396,
+        "dimension": 52.317880794701985,
         "children": [
           {
-            "id": "90ab974d9899e9b7",
+            "id": "5182410be76d6f5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/homework/2/homework 2.md",
+                "file": "obsidian/exam 2 review/exam 2 review sheet 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homework 2"
+              "title": "exam 2 review sheet 1"
             }
           },
           {
-            "id": "d8f5d89e67045bb7",
+            "id": "b807d1221a4efdbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/homework/4/homework 4.md",
+                "file": "obsidian/exam 2 review/exam 2 review sheet 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homework 4"
+              "title": "exam 2 review sheet 2"
             }
           }
         ],
@@ -42,10 +42,34 @@
       {
         "id": "c8fac6bebde1a618",
         "type": "tabs",
-        "dimension": 38.028627195836044,
+        "dimension": 47.682119205298015,
         "children": [
           {
-            "id": "2154d45bb2afbcc3",
+            "id": "618290f143de8bdd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "obsidian/exam 2 review/practice exams/midterm2_1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "midterm2_1"
+            }
+          },
+          {
+            "id": "49ded880e9123b9e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "obsidian/exam 2 review/practice exams/midterm2_1_sol.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "midterm2_1_sol"
+            }
+          },
+          {
+            "id": "4745e3e610ddd55a",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -55,21 +79,9 @@
               "icon": "lucide-file-text",
               "title": "Chapter 1-C"
             }
-          },
-          {
-            "id": "afce6b10fb162be6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "obsidian/homework/4/HW4-STAT212-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "HW4-STAT212-2025"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,7 +188,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -210,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -229,24 +241,65 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d8f5d89e67045bb7",
+  "floating": {
+    "id": "3a06348792c25a81",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2f006e85ef4974bf",
+        "type": "window",
+        "children": [
+          {
+            "id": "7ff80f9be005a667",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "29455330d70aee24",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "obsidian/exam 2 review/practice exams/midterm2_1_sol.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "midterm2_1_sol"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 528,
+        "y": 0,
+        "width": 864,
+        "height": 1152,
+        "maximize": true,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "4745e3e610ddd55a",
   "lastOpenFiles": [
-    "obsidian/homework/2/homework 2.md",
-    "obsidian/homework/4/homework 4.md",
-    "obsidian/homework/4/HW4-STAT212-2025.pdf",
-    "obsidian/homework/4/images/1.3.png",
-    "obsidian/homework/4/images",
-    "obsidian/homework/4/New folder",
-    "coding/hw4/PorousCarbon.txt",
-    "coding/hw4/q1.r",
-    "coding/hw4",
+    "obsidian/exam 2 review/practice exams/midterm2_1_sol.pdf",
+    "obsidian/exam 2 review/practice exams/midterm2_1.pdf",
+    "obsidian/exam 2 review/exam 2 review sheet 2.md",
     "obsidian/content/chapter 1/Chapter 1-C.pdf",
+    "obsidian/exam 2 review/exam 2 review sheet 1.md",
+    "obsidian/exam 2 review/practice exams/midterm2_2_sol.pdf",
+    "obsidian/exam 2 review/practice exams/midterm2_2.pdf",
+    "obsidian/exam 1 review/practice exams/midterm_1_soln.pdf",
+    "obsidian/exam 1 review/exam 1 review sheet 2.md",
+    "obsidian/exam 2 review/Chapter 2-A.pdf",
+    "obsidian/exam 1 review/exam 1 review sheet.md",
+    "obsidian/homework/4/HW4-STAT212-2025.pdf",
+    "obsidian/exam 2 review/practice exams",
+    "obsidian/exam 2 review",
+    "obsidian/homework/4/homework 4.md",
+    "obsidian/homework/2/homework 2.md",
+    "obsidian/homework/4/images/1.3.png",
     "obsidian/exam 1 review/instructor exam 1 formula sheet.md",
     "obsidian/homework/3/homework 3.md",
-    "obsidian/homework/3/HW3-STAT212-1.pdf",
-    "obsidian/homework/4",
     "coding/hw3/images/qq_2.png",
-    "coding/hw3/SleepRem.txt",
     "coding/hw3/images/cooks.png",
     "coding/hw3/images/qq_k.png",
     "coding/hw3/images/standard_vs_predicted.png",
@@ -256,8 +309,6 @@
     "coding/hw3/images/qq_plot.png",
     "coding/hw3/images/resid_vs_predicted.png",
     "obsidian/content/chapter 1/c/Untitled.md",
-    "obsidian/exam 1 review/exam 1 review sheet 2.md",
-    "obsidian/exam 1 review/exam 1 review sheet.md",
     "coding/hw2/aic_bic_adjr_plots.png",
     "obsidian/content/chapter 1/b/adjusted R2.md",
     "obsidian/content/chapter 1/b/candidate models.md",
@@ -273,8 +324,6 @@
     "exam 2 content/joint probability.md",
     "exam 1 content/probability with double integrals.md",
     "exam 1 content/z-scores and normal distribution.md",
-    "exam 1 content/central limit theorem.md",
-    "exam 1 content/confidence interval.md",
-    "exam 1 content/moment generating functions.md"
+    "exam 1 content/central limit theorem.md"
   ]
 }
