@@ -9,31 +9,31 @@
         "dimension": 52.317880794701985,
         "children": [
           {
-            "id": "5182410be76d6f5e",
+            "id": "6c90ad6b15b19bd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/exam 2 review/exam 2 review sheet 1.md",
+                "file": "obsidian/homework/4/homework 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exam 2 review sheet 1"
+              "title": "homework 4"
             }
           },
           {
-            "id": "b807d1221a4efdbf",
+            "id": "4745e3e610ddd55a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/exam 2 review/exam 2 review sheet 2.md",
+                "file": "obsidian/homework/5/homework 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exam 2 review sheet 2"
+              "title": "homework 5"
             }
           }
         ],
@@ -45,43 +45,30 @@
         "dimension": 47.682119205298015,
         "children": [
           {
-            "id": "618290f143de8bdd",
+            "id": "07beae9f4dd5c087",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "obsidian/exam 2 review/practice exams/midterm2_1.pdf"
+                "file": "obsidian/homework/5/HW5-STAT212-2025.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "midterm2_1"
+              "title": "HW5-STAT212-2025"
             }
           },
           {
-            "id": "49ded880e9123b9e",
+            "id": "9210f5f76a93cf64",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "obsidian/exam 2 review/practice exams/midterm2_1_sol.pdf"
+                "file": "obsidian/content/chapter 2 and 3/Chapter 3.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "midterm2_1_sol"
-            }
-          },
-          {
-            "id": "4745e3e610ddd55a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "obsidian/content/chapter 1/Chapter 1-C.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter 1-C"
+              "title": "Chapter 3"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,69 +229,70 @@
     }
   },
   "floating": {
-    "id": "3a06348792c25a81",
+    "id": "0d0bd7b10729c6cc",
     "type": "floating",
     "children": [
       {
-        "id": "2f006e85ef4974bf",
+        "id": "aeaa4b168a47e7c9",
         "type": "window",
         "children": [
           {
-            "id": "7ff80f9be005a667",
+            "id": "6ce1e19fc699feda",
             "type": "tabs",
             "children": [
               {
-                "id": "29455330d70aee24",
+                "id": "181cd3a83cfe4832",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "obsidian/exam 2 review/practice exams/midterm2_1_sol.pdf"
+                    "file": "obsidian/content/chapter 2 and 3/Chapter 3.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "midterm2_1_sol"
+                  "title": "Chapter 3"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 528,
-        "y": 0,
-        "width": 864,
-        "height": 1152,
+        "x": -885,
+        "y": 465,
+        "width": 1189,
+        "height": 969,
         "maximize": true,
-        "zoom": -0.5
+        "zoom": 0
       }
     ]
   },
   "active": "4745e3e610ddd55a",
   "lastOpenFiles": [
+    "obsidian/content/chapter 2 and 3/Chapter 3.pdf",
+    "obsidian/content/chapter 2 and 3/Chapter 2-B.pdf",
+    "obsidian/homework/5/homework 5.md",
+    "coding/hw5/q1.ipynb",
+    "coding/hw5/q1.py",
+    "coding/hw5",
+    "obsidian/homework/5/HW5-STAT212-2025.pdf",
+    "obsidian/content/chapter 2 and 3",
+    "obsidian/homework/3/homework 3.md",
+    "obsidian/homework/3/HW3-STAT212-1.pdf",
+    "obsidian/homework/4/homework 4.md",
     "obsidian/exam 2 review/practice exams/midterm2_1_sol.pdf",
     "obsidian/exam 2 review/practice exams/midterm2_1.pdf",
     "obsidian/exam 2 review/exam 2 review sheet 2.md",
-    "obsidian/content/chapter 1/Chapter 1-C.pdf",
     "obsidian/exam 2 review/exam 2 review sheet 1.md",
-    "obsidian/exam 2 review/practice exams/midterm2_2_sol.pdf",
-    "obsidian/exam 2 review/practice exams/midterm2_2.pdf",
-    "obsidian/exam 1 review/practice exams/midterm_1_soln.pdf",
+    "obsidian/homework/1.md",
     "obsidian/exam 1 review/exam 1 review sheet 2.md",
-    "obsidian/exam 2 review/Chapter 2-A.pdf",
     "obsidian/exam 1 review/exam 1 review sheet.md",
-    "obsidian/homework/4/HW4-STAT212-2025.pdf",
-    "obsidian/exam 2 review/practice exams",
-    "obsidian/exam 2 review",
-    "obsidian/homework/4/homework 4.md",
     "obsidian/homework/2/homework 2.md",
     "obsidian/homework/4/images/1.3.png",
     "obsidian/exam 1 review/instructor exam 1 formula sheet.md",
-    "obsidian/homework/3/homework 3.md",
     "coding/hw3/images/qq_2.png",
     "coding/hw3/images/cooks.png",
     "coding/hw3/images/qq_k.png",
     "coding/hw3/images/standard_vs_predicted.png",
     "coding/hw3/images/residual_new_fit.png",
-    "obsidian/homework/1.md",
     "coding/hw3/images/kernel_density.png",
     "coding/hw3/images/qq_plot.png",
     "coding/hw3/images/resid_vs_predicted.png",
@@ -323,7 +311,6 @@
     "exam 2 content/confidence interval.md",
     "exam 2 content/joint probability.md",
     "exam 1 content/probability with double integrals.md",
-    "exam 1 content/z-scores and normal distribution.md",
-    "exam 1 content/central limit theorem.md"
+    "exam 1 content/z-scores and normal distribution.md"
   ]
 }
