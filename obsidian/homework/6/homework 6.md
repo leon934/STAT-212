@@ -1,4 +1,4 @@
-#### question 1
+	#### question 1
 We can calculate the fit of a Poisson distribution by first calculating $\theta$:
 $$
 \theta=\frac{\sum_{i=0}^9 iN_{i}}{300}=3.877
